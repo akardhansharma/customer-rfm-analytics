@@ -156,7 +156,7 @@ Raw CSV files are not included in this repository. The dataset consists of 12 mo
 ## Author
 
 **Akardhansharma**  
-Data Analyst Student  
+Data Analyst 
 [GitHub](https://github.com/akardhansharma)
 
 ---
